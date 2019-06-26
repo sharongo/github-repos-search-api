@@ -1,0 +1,14 @@
+C:\workspace\dev\GithubReposSearch.API\bin\Debug\netcoreapp2.2\GithubReposSearch.API.deps.json
+C:\workspace\dev\GithubReposSearch.API\bin\Debug\netcoreapp2.2\GithubReposSearch.API.runtimeconfig.json
+C:\workspace\dev\GithubReposSearch.API\bin\Debug\netcoreapp2.2\GithubReposSearch.API.runtimeconfig.dev.json
+C:\workspace\dev\GithubReposSearch.API\bin\Debug\netcoreapp2.2\GithubReposSearch.API.dll
+C:\workspace\dev\GithubReposSearch.API\bin\Debug\netcoreapp2.2\GithubReposSearch.API.pdb
+C:\workspace\dev\GithubReposSearch.API\obj\Debug\netcoreapp2.2\GithubReposSearch.API.csprojAssemblyReference.cache
+C:\workspace\dev\GithubReposSearch.API\obj\Debug\netcoreapp2.2\GithubReposSearch.API.csproj.CoreCompileInputs.cache
+C:\workspace\dev\GithubReposSearch.API\obj\Debug\netcoreapp2.2\GithubReposSearch.API.RazorAssemblyInfo.cache
+C:\workspace\dev\GithubReposSearch.API\obj\Debug\netcoreapp2.2\GithubReposSearch.API.RazorAssemblyInfo.cs
+C:\workspace\dev\GithubReposSearch.API\obj\Debug\netcoreapp2.2\GithubReposSearch.API.AssemblyInfoInputs.cache
+C:\workspace\dev\GithubReposSearch.API\obj\Debug\netcoreapp2.2\GithubReposSearch.API.AssemblyInfo.cs
+C:\workspace\dev\GithubReposSearch.API\obj\Debug\netcoreapp2.2\GithubReposSearch.API.RazorTargetAssemblyInfo.cache
+C:\workspace\dev\GithubReposSearch.API\obj\Debug\netcoreapp2.2\GithubReposSearch.API.dll
+C:\workspace\dev\GithubReposSearch.API\obj\Debug\netcoreapp2.2\GithubReposSearch.API.pdb
